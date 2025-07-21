@@ -27,6 +27,7 @@ go.work.sum
 .terraform
 .terraform/*
 .terraform*
+terraform/terraform*
 
 # env file
 .env
