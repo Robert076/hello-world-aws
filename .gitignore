@@ -24,6 +24,10 @@ profile.cov
 go.work
 go.work.sum
 
+.terraform
+.terraform/*
+.terraform*
+
 # env file
 .env
 
